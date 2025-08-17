@@ -32,9 +32,6 @@ Session Durations:
 * 120 minutes: 2 sessions
 * 150 minutes: 1 session (Longest)
 
-
-## My Gemini Recommendations
-
 Based on the data and a few of my preferences, here's what it Gemini CLI thought I would like.
 
 ----
