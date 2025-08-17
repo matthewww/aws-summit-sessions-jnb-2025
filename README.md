@@ -11,6 +11,7 @@ Overall Stats
 * Duplicated Session Titles: 30 (These are sessions that are repeated during the event)
 
 Unique Locations: 19
+
 Unique Session Types: 6
 * Breakout Session: 90
 * Chalk Talk: 21
